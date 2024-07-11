@@ -1,2 +1,2 @@
 # joel-career-site
-A web to show job openning at jovian and accept aplications
+A web to show job opennings at jovian and accept aplications
